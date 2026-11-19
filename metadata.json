@@ -1,0 +1,6 @@
+{
+  "name": "حكيم AI | HkeeemAI - مساعد التوفير الذكي",
+  "description": "منصة حكيم AI (HkeeemAI) الذكية: مقارنة أسعار السلع، تجميع العروض والكوبونات المعتمدة، وخريطة الفروع وتحسين السلال الشرائية في المتاجر السعودية بالذكاء الاصطناعي (alhkmy.store)",
+  "requestFramePermissions": ["microphone", "geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
